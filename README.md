@@ -56,3 +56,11 @@ Any slicing software (e.g., Cura, PrusaSlicer)
 🚀 Goal
 
 Accurately reconstruct STL models from G-code using AI-assisted parametric modeling.
+
+
+
+
+
+Alternative Approach:
+
+Use Antigravity to generate a Python script designed for Fusion 360 utilities. When executed inside Fusion 360, this script exports another Python script. Running the exported script in an environment like VS Code will then generate the corresponding STL file.
